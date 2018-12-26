@@ -15,3 +15,6 @@ How to get OpenFrameWorks and ofxKinect working on windows:
     Make sure to include ofxKinect and OpenCV under addons.
 5. There are example files above for to copy and paste or clone in order
     to see if its working.
+
+If nothing works, I just followed the instruction from:
+https://github.com/openframeworks/openFrameworks/tree/patch-release/addons/ofxKinect
