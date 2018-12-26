@@ -13,3 +13,5 @@ How to get OpenFrameWorks and ofxKinect working on windows:
     Now you can create a OpenFrameworks project by going to and lauching
     of_vX.XX.X_vs20XX_release/projectGenerator-vs/projectGenerator.exe
     Make sure to include ofxKinect and OpenCV under addons.
+5. There are example files above for to copy and paste or clone in order
+    to see if its working.
