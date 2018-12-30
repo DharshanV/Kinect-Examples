@@ -1,4 +1,4 @@
-# Kinect-Point-Cloud-Example
+# Kinect-Examples
 A sample project that shows how to get point cloud data and depth image from kinect. It uses the OpenFrameworks ofxKinect library.
 
 How to get OpenFrameWorks and ofxKinect working on windows:
